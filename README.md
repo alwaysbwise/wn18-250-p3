@@ -3,6 +3,6 @@ A story written asynchronously
 
 Branches after merger are to be deleted if not necessary 
 
-/) /)
-( . .)
-c(")(")
+  /) /)
+  ( . .)
+  c(")(")
